@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/A4-Assignment-Site/static/css/main.f87316f7.css",
-    "main.js": "/A4-Assignment-Site/static/js/main.1b6a097c.js",
+    "main.css": "/A4-Assignment-Site/static/css/main.ee17eeb3.css",
+    "main.js": "/A4-Assignment-Site/static/js/main.1e5029a3.js",
     "static/js/453.2b4539ce.chunk.js": "/A4-Assignment-Site/static/js/453.2b4539ce.chunk.js",
+    "static/media/vis_neg.png": "/A4-Assignment-Site/static/media/vis_neg.76f1f9774af6533ae787.png",
+    "static/media/vis_pos2.png": "/A4-Assignment-Site/static/media/vis_pos2.632584e4bca82582df00.png",
+    "static/media/available_care.png": "/A4-Assignment-Site/static/media/available_care.2a44e562444783096b61.png",
+    "static/media/election_results.png": "/A4-Assignment-Site/static/media/election_results.2fab7cb45da5500b043f.png",
+    "static/media/abortion_rate_vs_voting.png": "/A4-Assignment-Site/static/media/abortion_rate_vs_voting.d0bb43f8f14c0b38606b.png",
+    "static/media/rates_expenditure.png": "/A4-Assignment-Site/static/media/rates_expenditure.c47a8b4f286cee181624.png",
+    "static/media/percentage_change.png": "/A4-Assignment-Site/static/media/percentage_change.f16cb7b50b902e0c28a6.png",
     "index.html": "/A4-Assignment-Site/index.html",
-    "main.f87316f7.css.map": "/A4-Assignment-Site/static/css/main.f87316f7.css.map",
-    "main.1b6a097c.js.map": "/A4-Assignment-Site/static/js/main.1b6a097c.js.map",
+    "main.ee17eeb3.css.map": "/A4-Assignment-Site/static/css/main.ee17eeb3.css.map",
+    "main.1e5029a3.js.map": "/A4-Assignment-Site/static/js/main.1e5029a3.js.map",
     "453.2b4539ce.chunk.js.map": "/A4-Assignment-Site/static/js/453.2b4539ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87316f7.css",
-    "static/js/main.1b6a097c.js"
+    "static/css/main.ee17eeb3.css",
+    "static/js/main.1e5029a3.js"
   ]
 }
